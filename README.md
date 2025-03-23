@@ -28,7 +28,7 @@ The trained model is deployed on [Huggingface Spaces](https://huggingface.co/spa
 ## Repository Structure
 
 - **HF_App:** Contains the code for model inference and the Gradio interface used for deploying the application on Huggingface Spaces.
-- **Other Folders/Files:** Additional files and folders related to training and experimentation.
+- **Training:** Training and Inference code is in Training folder.
 
 ## How to Use
 
