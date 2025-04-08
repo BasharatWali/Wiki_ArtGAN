@@ -63,7 +63,6 @@ def inference_interface(latent_dim=latent_dim, device=device):
 
     return demo
 
-# The key part: launch the Gradio interface when app.py is run
 if __name__ == "__main__":
     demo = inference_interface()
     demo.launch()
